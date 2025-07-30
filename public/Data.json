@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 hour daily access",
+      "Free Wi-Fi",
+      "Access to changing room",
+      "No contract – cancel anytime"
+    ],
+    "price": "BDT 1,500/month"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "features": [
+      "Unlimited gym access",
+      "Locker + shower access",
+      "One free fitness assessment",
+      "Group fitness classes (2/week)",
+      "Access to cardio section",
+      "Nutrition tips via app",
+      "10% discount on gym merch"
+    ],
+    "price": "BDT 2,500/month"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "features": [
+      "24/7 access to gym",
+      "Unlimited gym & cardio access",
+      "Locker + shower + towel service",
+      "2 personal training sessions/month",
+      "Free diet consultation",
+      "Weekly fitness report",
+      "Priority booking for classes",
+      "Free guest pass (1/month)",
+      "Access to rooftop workout zone"
+    ],
+    "price": "BDT 4,000/month"
+  },
+  {
+    "id": 4,
+    "name": "Student Plan",
+    "features": [
+      "Access to all equipment",
+      "Weekday access only (7AM - 5PM)",
+      "Valid student ID required",
+      "Free locker usage",
+      "Monthly fitness tips email",
+      "10% off on protein shakes"
+    ],
+    "price": "BDT 1,200/month"
+  },
+  {
+    "id": 5,
+    "name": "Couple Plan",
+    "features": [
+      "Unlimited gym access for 2 people",
+      "Free fitness assessment for both",
+      "Special couple sessions (Yoga/HIIT)",
+      "Locker + shower access",
+      "2 free guest passes per month",
+      "Relationship wellness seminars access",
+      "Priority class registration"
+    ],
+    "price": "BDT 4,500/month"
+  },
+  {
+    "id": 6,
+    "name": "Basic Plan",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 hour daily access",
+      "Free Wi-Fi",
+      "Access to changing room",
+      "No contract – cancel anytime"
+    ],
+    "price": "BDT 1,500/month"
+  },
+  {
+    "id": 7,
+    "name": "Standard Plan",
+    "features": [
+      "Unlimited gym access",
+      "Locker + shower access",
+      "One free fitness assessment",
+      "Group fitness classes (2/week)",
+      "Access to cardio section",
+      "Nutrition tips via app",
+      "10% discount on gym merch"
+    ],
+    "price": "BDT 2,500/month"
+  },
+  {
+    "id": 8,
+    "name": "Premium Plan",
+    "features": [
+      "24/7 access to gym",
+      "Unlimited gym & cardio access",
+      "Locker + shower + towel service",
+      "2 personal training sessions/month",
+      "Free diet consultation",
+      "Weekly fitness report",
+      "Priority booking for classes",
+      "Free guest pass (1/month)",
+      "Access to rooftop workout zone"
+    ],
+    "price": "BDT 4,000/month"
+  },
+  {
+    "id": 9,
+    "name": "Student Plan",
+    "features": [
+      "Access to all equipment",
+      "Weekday access only (7AM - 5PM)",
+      "Valid student ID required",
+      "Free locker usage",
+      "Monthly fitness tips email",
+      "10% off on protein shakes"
+    ],
+    "price": "BDT 1,200/month"
+  },
+  {
+    "id": 10,
+    "name": "Couple Plan",
+    "features": [
+      "Unlimited gym access for 2 people",
+      "Free fitness assessment for both",
+      "Special couple sessions (Yoga/HIIT)",
+      "Locker + shower access",
+      "2 free guest passes per month",
+      "Relationship wellness seminars access",
+      "Priority class registration"
+    ],
+    "price": "BDT 4,500/month"
+  }
+]

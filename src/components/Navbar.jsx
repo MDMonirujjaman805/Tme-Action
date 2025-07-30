@@ -19,19 +19,19 @@ const Navbar = () => {
     <nav className="max-w-10/12 mx-auto mt-10 flex justify-between">
       <div
         onClick={() => setOpen(!open)}
-        className="md:hidden text-2xl cursor-pointer"
+        className="md:hidden text-2xl cursor-pointer mt-5"
       >
         {open === true ? <HiOutlineMenuAlt1 /> : <RxCross2 />}
       </div>
       <ul
         className={`md:flex 
-      ${open ? "hidden" : ""}`}
+      ${open ? "hidden" : ""} mt-5`}
       >
         {routes.map((route) => (
           <Link key={route.id} route={route}></Link>
         ))}
       </ul>
-      <div className="text-3xl cursor-pointer">
+      <div className="text-3xl cursor-pointer mt-5">
         <CgProfile />
       </div>
     </nav>
